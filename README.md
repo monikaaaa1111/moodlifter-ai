@@ -18,10 +18,10 @@ MoodLifter detects user mood and responds with personalized quotes, coping sugge
 ---
 
 ## 📸 Demo
-![Home Screen](Screenshot 2025-06-18 112210.png)
-![Mood Detection with AI insights and Acivity Suggestions](Screenshot 2025-06-18 112518.png)
-![Additional Mood Detection with background change](Screenshot 2025-06-18 112543.png)
-![Data Visualization](Screenshot 2025-06-18 112610.png)
+![Home Screen](Screenshot_2025-06-18_112210.png)
+![Mood Detection with AI insights and Acivity Suggestions](Screenshot_2025-06-18_112518.png)
+![Additional Mood Detection with background change](Screenshot_2025-06-18_112543.png)
+![Data Visualization](Screenshot_2025-06-18_112610.png)
 
 ---
 
