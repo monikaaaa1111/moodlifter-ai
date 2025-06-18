@@ -1,4 +1,4 @@
-# MoodLifter AI 😌🤖
+# MoodLifter AI 🤖
 
 An AI-powered emotional wellness assistant built with Streamlit and NLP.  
 MoodLifter detects user mood and responds with personalized quotes, coping suggestions, and even mood history charts — all powered by machine learning.
@@ -7,20 +7,21 @@ MoodLifter detects user mood and responds with personalized quotes, coping sugge
 
 ## 🌟 Features
 
-- 🧠 **Mood Detection** via voice or text (Naive Bayes + TextBlob)
-- 💬 Personalized motivational quotes & self-care suggestions
-- 🎤 Voice input + 🗣️ Voice output using `SpeechRecognition` & `pyttsx3`
-- 📊 Mood history tracking & visualization
-- 🎨 Light & Dark theme toggle
-- ⚙️ Settings panel to customize experience
-- 🖥️ Built entirely with **Streamlit**
+-  **Mood Detection** via voice or text (Naive Bayes + TextBlob)
+-  Personalized motivational quotes & self-care suggestions
+-  Voice input + Voice output using `SpeechRecognition` & `pyttsx3`
+-  Mood history tracking & visualization
+-  Light & Dark theme toggle
+-  Settings panel to customize experience
+-  Built entirely with **Streamlit**
 
 ---
 
 ## 📸 Demo
-
-![demo screenshot or gif here]  
-*(Add a screenshot or GIF of your app if you can!)*
+![Home Screen](Screenshot 2025-06-18 112210.png)
+![Mood Detection with AI insights and Acivity Suggestions](Screenshot 2025-06-18 112518.png)
+![Additional Mood Detection with background change](Screenshot 2025-06-18 112543.png)
+![Data Visualization](Screenshot 2025-06-18 112610.png)
 
 ---
 
